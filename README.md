@@ -1,2 +1,2 @@
 # christmas
-This is a project that I will use to send someone who opens the website the our gift.
+People who open the website will be redirected to our gift.
